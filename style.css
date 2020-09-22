@@ -1,0 +1,36 @@
+body {
+	background-color: blue;
+}
+header	{
+	border: 1px solid white;
+	background-color: blue;
+}
+main {
+	border: 1px solid black;
+	background-color: green;
+}
+footer {
+	border: 1px solid black;
+	background-color: white;
+}
+
+img {
+	width: 400px;
+}
+#background {
+	width: 1000px;
+}
+
+.columns {
+	width: 450px;
+	display: inline-block;
+}
+
+#frost {
+	background-color: green;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+}

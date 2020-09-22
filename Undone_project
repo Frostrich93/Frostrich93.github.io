@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Personal Website-Home</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div id="frost">
+			<header>
+				<h1>The Webdite of A.A.T.</h1>
+				<nav>
+				
+				</nav>
+			</header>
+			<main>
+				<div>
+					<div class="columns">
+							<font size="25"><b>Hello dear Guest!</b></font>
+					</div>
+					<div class="columns">	
+							<img src="field.jpg" alt="a field">
+					</div>		
+				</div>
+			</main>
+			<footer>
+			<p>This is an example of the footer</p>
+			</footer>
+		</div>
+	</body>
+</html>
+body {
+	background-color: blue;
+}
+header	{
+	border: 1px solid white;
+	background-color: blue;
+}
+main {
+	border: 1px solid black;
+	background-color: green;
+}
+footer {
+	border: 1px solid black;
+	background-color: white;
+}
+
+img {
+	width: 400px;
+}
+#background {
+	width: 1000px;
+}
+
+.columns {
+	width: 450px;
+	display: inline-block;
+}
+
+#frost {
+	background-color: green;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+}

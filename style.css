@@ -1,29 +1,39 @@
 body {
-	background-color: blue;
+	background-image: url('field.jpg');
 }
+
 header	{
 	border: 1px solid white;
-	background-color: blue;
+	background-color: lightpink;
 }
 main {
 	border: 1px solid black;
 	background-color: green;
+	
 }
 footer {
 	border: 1px solid black;
-	background-color: white;
+	background-color: gold;
 }
 
 img {
-	width: 400px;
-}
-#background {
-	width: 1000px;
+	width: 495px;
 }
 
+
 .columns {
-	width: 450px;
+	width: 495px;
 	display: inline-block;
+	border: 1px solid black;
+	background-color: grey;
+	vertical-align: text-top;
+}
+
+.four {
+	width: 200px;
+	display: inline-block;
+	border: 1px solid black;
+	background-color: coral;
 }
 
 #frost {
